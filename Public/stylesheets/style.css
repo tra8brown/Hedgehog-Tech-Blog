@@ -15,6 +15,7 @@
                 color: #333;
                 background-color: #cccccc;
                 background-image: radial-gradient(gray, beige);
+                align-items: center;
             }
             
             a {
@@ -134,6 +135,9 @@
             .post {
                 margin-bottom: 2%;
                 line-height: 150%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
             }
             
             .post .title span {
