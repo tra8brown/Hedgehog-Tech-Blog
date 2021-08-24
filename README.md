@@ -3,7 +3,9 @@
 
 ![tech-blog screenshot](screenshot.png)
 
+Live URL: https://tra8brown.github.io/Hedgehog-Tech-Blog/
 Heroku: https://tech-blogtb.herokuapp.com/
+Github URL: https://github.com/tra8brown/Hedgehog-Tech-Blog
 
 <h1 align="center">Hi 👋, I'm Tracee</h1>
 <h3 align="center">A full-stack developer from Utah.</h3>
