@@ -20,13 +20,13 @@
             
             a {
                 text-decoration: none;
-                color: #225ca3;
+                color: purple;
                 font-weight: bold;
                 transition: color .1s;
             }
             
             a:hover {
-                color: #3486eb;
+                color: plum;
             }
             
             nav {
@@ -34,7 +34,7 @@
             }
             
             button {
-                background-color: #225ca3;
+                background-color: plum;
                 border: 0;
                 padding: 1%;
                 color: white;
@@ -45,7 +45,7 @@
             }
             
             button:hover {
-                background-color: #3486eb;
+                background-color: purple;
             }
             
             .post-list {
@@ -67,7 +67,7 @@
             }
             
             textarea {
-                min-width: 40%;
+                min-width: 75%;
                 min-height: 100px;
             }
             
@@ -103,7 +103,7 @@
             main {
                 flex: 1;
                 padding: 2% 4%;
-                color: white
+                color: plum
             }
             
             .btn-no-style {
@@ -143,7 +143,7 @@
             .post .title span {
                 font-style: italic;
                 font-size: 90%;
-                color: #7d7d7d;
+                color: white;
             }
             
             .edit-link {
@@ -152,7 +152,7 @@
             }
             
             .upvote-btn {
-                background-color: #197d0f;
+                background-color: chartreuse;
                 transition: background-color .1s;
             }
             
@@ -171,7 +171,7 @@
             
             .comment:nth-child(odd) {
                 background-color: gray;
-                color: blue;
+                color: plum;
             }
             
             .comment .meta {
