@@ -1,3 +1,7 @@
+# Model-View-Controller (MVC) Challenge: Tech Blog
+* This application was created for the purpose of making a blog, creating ideas, writing about technical concepts and replying on posts for developers. 
+
+![tech-blog photo](Screenshot.png)
 
 Heroku: https://tech-blogtb.herokuapp.com/
 
